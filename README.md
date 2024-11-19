@@ -61,6 +61,3 @@ Its speed and great travel range makes the Voonith an ideal fleet scout or for r
 The jousting strategy often drags fights out a long time, making this ship great for entangling larger ships in combat, while other friendly ships move in to gank the distracted target.
 
 Low weight also makes this a ideal ship in the gravity of moons, where larger ships may struggle more at low altitude.
-The jousting stratagy often drags fights out a long time, making this ship great for entangling larger ships in combat, while other friendly ships move in to gank the distracted target.
-
-Low weight also makes this a ideal ship in the gravity of moons, where larger ships may struggle more at low altitude.
