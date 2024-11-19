@@ -45,7 +45,7 @@ The gens have enough power to charge a shot every 7 seconds, making it a joust o
 
 2 prop tanks grant this ship fantastic range, making it great as a armed scout or point ship.
 
-The vast majority of other fighters can not maintain the same speed and acceleration allowing you to pull range on any ship in a fleet fight, allowing you to safely line up you next hit and run.
+The vast majority of other fighters can not maintain the same speed and acceleration allowing you to pull range on any ship in a fleet fight, allowing you to safely line up your next hit and run.
 
 
 //Tactics//
