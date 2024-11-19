@@ -41,7 +41,7 @@ Only armoured where it needs to be to save weight, it has a tiny profile and vox
 
 Armour is a mix of Dal, Char and Ymr.
 
-The gens have enough power to charge a shot every 7 seconds, making it a joust only ship, circle fighting is not recomended.
+The gens have enough power to charge a shot every 7 seconds, making it a joust only ship, circle fighting is not recommended.
 
 2 prop tanks grant this ship fantastic range, making it great as a armed scout or point ship.
 
@@ -50,14 +50,17 @@ The vast majority of other fighters can not maintain the same speed and accelera
 
 //Tactics//
 
-Railguns have always been most effective when attacking the sides and rear of ships, a small micro fighter like the Voonith can bring this powerful weapon to fleet fights in large numbers, and has the speed to deply it quickly.
+Railguns have always been most effective when attacking the sides and rear of ships, a small micro fighter like the Voonith can bring this powerful weapon to fleet fights in large numbers, and has the speed to deploy it quickly.
 
-When deployed with other larger ships to support, the Voonith becomes a ellusive and unideal primary target, allowing it the freedom to attack from better angles safley.
+When deployed with other larger ships to support, the Voonith becomes a elusive and unideal primary target, allowing it the freedom to attack from better angles safely.
 
-Newer pilots can support fleets with this cheap and useful weapon, without putting larger ships at risk in inexpirenced hands.
+Newer pilots can support fleets with this cheap and useful weapon, without putting larger ships at risk in inexperienced hands.
 
 Its speed and great travel range makes the Voonith an ideal fleet scout or for roaming solo, able to cover ground to reach any pvp.
 
+The jousting strategy often drags fights out a long time, making this ship great for entangling larger ships in combat, while other friendly ships move in to gank the distracted target.
+
+Low weight also makes this a ideal ship in the gravity of moons, where larger ships may struggle more at low altitude.
 The jousting stratagy often drags fights out a long time, making this ship great for entangling larger ships in combat, while other friendly ships move in to gank the distracted target.
 
 Low weight also makes this a ideal ship in the gravity of moons, where larger ships may struggle more at low altitude.
